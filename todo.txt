@@ -1,0 +1,2 @@
+- Todo: Create server.ts & consider if it should be in src/server/
+- Add socket.io or consider alternatives
