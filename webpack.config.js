@@ -1,5 +1,7 @@
 module.exports = {
-    entry: "./src/index.tsx",
+    entry: {
+        game: "./src/game/index.tsx",
+    },
 
     mode: "development",
 
@@ -23,5 +25,5 @@ module.exports = {
     externals: {
         "react": "React",
         "react-dom": "ReactDOM"
-    },
+    },   
 };

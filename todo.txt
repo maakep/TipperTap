@@ -1,2 +1,2 @@
-- Todo: Create server.ts & consider if it should be in src/server/
-- Add socket.io or consider alternatives
+- Add joining rooms on /ABCD
+- Add lobby that redirects to rooms
